@@ -1,0 +1,10 @@
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\12_grafika_bevezeto\12_grafika_bevezeto\bin\Debug\12_grafika_bevezeto.exe.config
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\12_grafika_bevezeto\12_grafika_bevezeto\bin\Debug\12_grafika_bevezeto.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\12_grafika_bevezeto\12_grafika_bevezeto\bin\Debug\12_grafika_bevezeto.pdb
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\12_grafika_bevezeto\12_grafika_bevezeto\obj\Debug\12_grafika_bevezeto.csprojAssemblyReference.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\12_grafika_bevezeto\12_grafika_bevezeto\obj\Debug\_12_grafika_bevezeto.Form1.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\12_grafika_bevezeto\12_grafika_bevezeto\obj\Debug\_12_grafika_bevezeto.Properties.Resources.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\12_grafika_bevezeto\12_grafika_bevezeto\obj\Debug\12_grafika_bevezeto.csproj.GenerateResource.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\12_grafika_bevezeto\12_grafika_bevezeto\obj\Debug\12_grafika_bevezeto.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\12_grafika_bevezeto\12_grafika_bevezeto\obj\Debug\12_grafika_bevezeto.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\12_grafika_bevezeto\12_grafika_bevezeto\obj\Debug\12_grafika_bevezeto.pdb
